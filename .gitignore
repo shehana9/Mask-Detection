@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO
+runs/
+weights/
+*.pt
+*.pth
+
+# Datasets
+datasets/
+data/
