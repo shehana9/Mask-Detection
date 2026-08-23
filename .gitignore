@@ -7,8 +7,6 @@ __pycache__/
 
 # YOLO
 runs/
-weights/
-*.pt
 *.pth
 
 # Datasets
