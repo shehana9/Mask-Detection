@@ -42,3 +42,9 @@ face-mask.ipynb
 ## Notes
 
 The dataset and large training files are not included in this repository because of their size.
+
+## Model Output
+<img width="1280" height="846" alt="5791782408641253003_121" src="https://github.com/user-attachments/assets/30f54665-3ab1-4637-bab6-2ebe9d580bdb" />
+<img width="1280" height="851" alt="5791782408641253004_121" src="https://github.com/user-attachments/assets/862e2e07-7687-4ab1-8bb7-30d4e6c953b3" />
+
+
